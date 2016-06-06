@@ -1,0 +1,15 @@
+
+*.bak
+*.exe
+*.orig
+*.pdb
+*.scc
+*.suo
+*.vbproj.user
+*.vspscc
+*.vssscc
+LCConnections.xml*
+TempScript/
+Thumbs.db
+**/**/**/bin/*
+**/**/**/obj/*
